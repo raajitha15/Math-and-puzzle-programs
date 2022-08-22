@@ -1,0 +1,12 @@
+class BoyGirl 
+{
+	public static void main(String[] args) 
+	{
+		int g=1;
+		int b=1;
+		int div=g%50;
+		int div1=b%50;
+		System.out.println("total are: "+div);
+		System.out.println("total are: "+div1);
+	}
+}

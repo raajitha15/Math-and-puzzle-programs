@@ -1,0 +1,20 @@
+class Ants 
+{
+	public static void main(String[] args) 
+	{
+		int product=1;
+		int a=3*1;
+		int b=3*1;
+		int c=3*1;
+		System.out.println("result are: "+a);
+		System.out.println("result are: "+b);
+		System.out.println("result are: "+c);
+		int d=a*(1%2);
+		int e=b*(1%2);
+		int f=c*(1%2);
+		System.out.println("result are: "+d);
+		System.out.println("result are: "+e);
+		System.out.println("result are: "+f);
+		
+	}
+}

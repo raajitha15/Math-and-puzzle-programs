@@ -1,0 +1,17 @@
+class BasketBall 
+{
+	public static void main(String[] args) 
+	{
+		int s=2;
+		int s1=3;
+		int sum=0;
+		int c=s+s1;
+		System.out.println("result of first game shoot is "+c);
+		int a=3;
+		int b=3;
+		int d=a+b;
+		System.out.println("result of second game shoot is "+d);
+		System.out.println("total result of the game is "+(c+d));
+	}
+}
+
